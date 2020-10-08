@@ -1,1 +1,1 @@
-Audio Player with React and a bit of Fetch.
+Audio Player with React, practicing AJAX.
